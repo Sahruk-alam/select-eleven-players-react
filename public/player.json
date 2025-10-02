@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "player_image": "https://i.ibb.co.com/5hFNbpk2/sakib.webp",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "Shakib Al Hasan",
     "country": "Bangladesh",
     "rating": 92,
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "player_image": "https://i.ibb.co.com/vCG2nFZJ/OIP.webp",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "Tamim Iqbal",
     "country": "Bangladesh",
     "rating": 88,
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "player_image": "https://i.ibb.co.com/W41nZ5kS/download.webp",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "Mushfiqur Rahim",
     "country": "Bangladesh",
     "rating": 90,
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "player_image": "https://i.ibb.co.com/PzghZBs9/mahamu.webp",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "Mahmudullah",
     "country": "Bangladesh",
     "rating": 87,
@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "player_image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Chris_Gayle.jpg",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "Chris Gayle",
     "country": "West Indies",
     "rating": 95,
@@ -67,7 +67,7 @@
   },
   {
     "id": 7,
-    "player_image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Andre_Russell_in_2019.jpg",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "Andre Russell",
     "country": "West Indies",
     "rating": 93,
@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "player_image": "https://upload.wikimedia.org/wikipedia/commons/2/25/AB_de_Villiers_1.jpg",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "AB de Villiers",
     "country": "South Africa",
     "rating": 96,
@@ -89,7 +89,7 @@
   },
   {
     "id": 9,
-    "player_image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Dwayne_Bravo.jpg",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "Dwayne Bravo",
     "country": "West Indies",
     "rating": 91,
@@ -100,7 +100,7 @@
   },
   {
     "id": 10,
-    "player_image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/David_Warner_in_2017.jpg",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "David Warner",
     "country": "Australia",
     "rating": 94,
@@ -111,7 +111,7 @@
   },
   {
     "id": 11,
-    "player_image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kieron_Pollard_in_2019.jpg",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "Kieron Pollard",
     "country": "West Indies",
     "rating": 92,
@@ -122,7 +122,7 @@
   },
   {
     "id": 12,
-    "player_image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lasith_Malinga_2011.jpg",
+    "player_image": "https://i.ibb.co.com/yn3p0NRd/mustafiz.webp",
     "name": "Lasith Malinga",
     "country": "Sri Lanka",
     "rating": 90,

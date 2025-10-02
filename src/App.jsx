@@ -15,10 +15,10 @@ function App() {
   return (
     <>
     <div className="navbar max-w-[1200px] mx-auto">
-  <div class="flex-1">
-    <a class="btn btn-ghost text-xl"><img className='text-white' src={navImg} alt="" /></a>
+  <div className="flex-1">
+    <a className="btn btn-ghost text-xl"><img className='text-white' src={navImg} alt="" /></a>
   </div>
-  <div class="flex">
+  <div className="flex">
     <span className='mr-2'>6000000</span>
     <span className='mr-2'>Coin</span>
     <img src={dollarImg} alt="" />
