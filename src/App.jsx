@@ -5,7 +5,7 @@ import '../public/player.json'
 import Available from './component/AvailablePlayers/Available'
 import Selected from './component/SelectedPlayer/Selected'
 import { Suspense, useState } from 'react'
-
+import { ToastContainer } from 'react-toastify';
 const fetchPlayers=async()=>{
 const res=await fetch('/player.json')
 return res.json();
@@ -14,9 +14,14 @@ const playersPromise=fetchPlayers();
 function App() {
   
   const [toggle,setToggle]=useState(true)
-  const [availableBalance,setAvailableBalance]=useState(600000)
+  const [availableBalance,setAvailableBalance]=useState(6000000)
   const [purchase,setPurchase]=useState([])
-
+const deleteData=(p)=>{
+  console.log(p)
+  const filterPlayer=purchase.filter(playing=> playing.id!==p.id);
+  setPurchase(filterPlayer)
+  setAvailableBalance(availableBalance+parseInt(p.price.split(",").join("")))
+}
   return (
     <>
     {/* nav bar section     */}
@@ -46,11 +51,9 @@ function App() {
   <Available purchase={purchase} setPurchase={setPurchase} availableBalance={availableBalance} 
   setAvailableBalance={setAvailableBalance}
    playersPromise={playersPromise}></Available>
-</Suspense> : <Selected purchase={purchase}></Selected>
+</Suspense> : <Selected deleteData={deleteData} setToggle={setToggle}  purchase={purchase}></Selected>
 }
-
-
-
+<ToastContainer />
     </>
   )
 }

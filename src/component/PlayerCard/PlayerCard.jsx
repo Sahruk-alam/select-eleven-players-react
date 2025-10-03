@@ -1,17 +1,23 @@
 import React, { useState } from "react";
 import groupImg from "../../assets/Group.png";
 import vector from "../../assets/Vector.png";
+import { toast } from "react-toastify";
 const PlayerCard = ({ player, setAvailableBalance, availableBalance,setPurchase,purchase }) => {
   const [Selected, setSelected] = useState(false);
 // console.log('player data',player)
   const handleSelected = (parameter) => {
     if(availableBalance<parameter.price.split(",").join("")){
-      alert('No amount avaiable')
+      toast('No coins avaiable')
+      return;
+    }
+    if(purchase.length===6){
+      toast('Already 6 player done');
       return;
     }
       setSelected(true);
-      setAvailableBalance(availableBalance - parameter.price.split(",").join(""));
+      setAvailableBalance(availableBalance - parseInt(parameter.price.split(",").join("")));
       setPurchase([...purchase,parameter])
+      toast('Player purchase')
   };
   return (
     <div>
