@@ -5,7 +5,7 @@
     "name": "Shakib Al Hasan",
     "country": "Bangladesh",
     "rating": 92,
-    "price": "110000 USD",
+    "price": "11,0000",
     "playing_role": "All-rounder",
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox"
@@ -16,7 +16,7 @@
     "name": "Tamim Iqbal",
     "country": "Bangladesh",
     "rating": 88,
-    "price": "95000 USD",
+    "price": "95,000",
     "playing_role": "Batsman",
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak"
@@ -27,8 +27,8 @@
     "name": "Mushfiqur Rahim",
     "country": "Bangladesh",
     "rating": 90,
-    "price": "100000 USD",
-    "playing_role": "Wicketkeeper Batsman",
+    "price": "10,0000",
+    "playing_role": "Batsman",
     "batting_style": "Right-hand bat",
     "bowling_style": "None"
   },
@@ -38,7 +38,7 @@
     "name": "Mahmudullah",
     "country": "Bangladesh",
     "rating": 87,
-    "price": "90000 USD",
+    "price": "90,000 ",
     "playing_role": "All-rounder",
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak"
@@ -49,7 +49,7 @@
     "name": "Mustafizur Rahman",
     "country": "Bangladesh",
     "rating": 89,
-    "price": "97000 USD",
+    "price": "97,000",
     "playing_role": "Bowler",
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast-medium"
@@ -60,7 +60,7 @@
     "name": "Chris Gayle",
     "country": "West Indies",
     "rating": 95,
-    "price": "120000 USD",
+    "price": "12,0000",
     "playing_role": "Batsman",
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak"
@@ -71,7 +71,7 @@
     "name": "Andre Russell",
     "country": "West Indies",
     "rating": 93,
-    "price": "115000 USD",
+    "price": "11,5000",
     "playing_role": "All-rounder",
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast"
@@ -82,7 +82,7 @@
     "name": "AB de Villiers",
     "country": "South Africa",
     "rating": 96,
-    "price": "130000 USD",
+    "price": "13,0000",
     "playing_role": "Batsman",
     "batting_style": "Right-hand bat",
     "bowling_style": "Wicketkeeper / occasional bowler"
@@ -93,7 +93,7 @@
     "name": "Dwayne Bravo",
     "country": "West Indies",
     "rating": 91,
-    "price": "108000 USD",
+    "price": "10,8000",
     "playing_role": "All-rounder",
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm medium-fast"
@@ -104,7 +104,7 @@
     "name": "David Warner",
     "country": "Australia",
     "rating": 94,
-    "price": "125000 USD",
+    "price": "12,5000",
     "playing_role": "Batsman",
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm legbreak"
@@ -115,7 +115,7 @@
     "name": "Kieron Pollard",
     "country": "West Indies",
     "rating": 92,
-    "price": "112000 USD",
+    "price": "11,2000",
     "playing_role": "All-rounder",
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm medium-fast"
@@ -126,7 +126,7 @@
     "name": "Lasith Malinga",
     "country": "Sri Lanka",
     "rating": 90,
-    "price": "105000 USD",
+    "price": "10,5000",
     "playing_role": "Bowler",
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast"
